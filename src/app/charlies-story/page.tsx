@@ -25,7 +25,7 @@ export default function CharliesStoryPage() {
             {founderImage && (
               <div className="flex justify-center mb-8">
                 <Image
-                    src={founderImage.imageUrl}
+                    src={web picture.imageUrl}
                     width="300"
                     height="300"
                     alt={founderImage.description}
