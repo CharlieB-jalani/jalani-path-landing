@@ -4,7 +4,7 @@ import { Toaster } from '@/components/ui/toaster';
 import { FirebaseClientProvider } from '@/firebase';
 
 export const metadata: Metadata = {
-  title: 'Jalani Path - Coming Soon',
+  title: 'Jalani Path - Mental Progress, Not Perfection',
   description: 'A new platform for sharing stories, finding support, and progressing together on your mental wellness journey.',
 };
 
