@@ -21,7 +21,7 @@ import { Separator } from '@/components/ui/separator';
 export default function Home() {
   const heroImage = PlaceHolderImages.find(img => img.id === 'hero-background');
   const founderImage = PlaceHolderImages.find(img => img.id === 'founder-image');
-  const charlieJourneyImage = PlaceHolderImages.find(img => img.id === 'charlie-journey');
+  const charlieJourneyImage = PlaceHolderImages.find(img => img.id === 'mind-journey-tree.jpg');
 
   return (
     <>
