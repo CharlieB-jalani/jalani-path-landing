@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A winding path through a beautiful, sunlit forest, representing a journey.",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYXRoJTIwam91cm5leXxlbnwwfHx8fDE3NjIzNTU4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "path journey"
+    },
+    {
+      "id": "vision-community",
+      "description": "A diverse group of people connecting and supporting each other.",
+      "imageUrl": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21tdW5pdHklMjBzdXBwb3J0fGVufDB8fHx8MTc2MjI3MDI0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community support"
+    },
+    {
+      "id": "vision-resources",
+      "description": "An organized library of books and digital resources on wellbeing.",
+      "imageUrl": "https://images.unsplash.com/photo-1709924168698-620ea32c3488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnl8ZW58MHx8fHwxNzYyMzIzMjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "books library"
+    },
+    {
+      "id": "vision-global",
+      "description": "A map of the world with connection lines, symbolizing global reach.",
+      "imageUrl": "https://images.unsplash.com/photo-1712150177656-b3c0bd50eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b3JsZCUyMG1hcHxlbnwwfHx8fDE3NjIyNzEyMDN8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "world map"
+    },
+    {
+      "id": "founder-portrait",
+      "description": "A hopeful portrait of the founder looking towards the horizon.",
+      "imageUrl": "/founder-charlie.jpg",
+      "imageHint": "portrait hopeful"
+    },
+    {
+      "id": "charlie-journey",
+      "description": "A strong, thriving tree with deep roots, symbolizing growth and strength.",
+      "imageUrl": "https://images.unsplash.com/photo-1453974336168-4a197599b0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJvbmclMjB0cmVlfGVufDB8fHx8MTc2MjM4NjUyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "growth strength"
+    }
+  ]
+}

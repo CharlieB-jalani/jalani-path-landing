@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 50% 98%;
+    --foreground: 240 10% 3.9%;
+    --card: 40 50% 98%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 40 50% 98%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 46 65% 85%; /* Sandy Path */
+    --primary-foreground: 30 50% 25%; /* Darker text for contrast on sandy path */
+    --secondary: 80 60% 94%; /* Lighter green for secondary backgrounds */
+    --secondary-foreground: 85 40% 20%;
+    --muted: 80 30% 90%;
+    --muted-foreground: 85 25% 40%;
+    --accent: 80 60% 90%; /* Vibrant Green */
+    --accent-foreground: 85 40% 20%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 40 20% 88%;
+    --input: 40 20% 88%;
+    --ring: 46 70% 75%; /* Slightly more saturated sandy path */
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 20 12% 8%; /* Dark soil */
+    --foreground: 40 30% 90%; /* Light sand text */
+    --card: 20 12% 8%;
+    --card-foreground: 40 30% 90%;
+    --popover: 20 12% 8%;
+    --popover-foreground: 40 30% 90%;
+    --primary: 46 55% 75%; /* Muted Sandy Path */
+    --primary-foreground: 30 50% 15%;
+    --secondary: 90 25% 15%; /* Dark Forest Green */
+    --secondary-foreground: 85 30% 85%;
+    --muted: 90 25% 20%;
+    --muted-foreground: 85 20% 65%;
+    --accent: 80 40% 40%; /* Muted Vibrant Green */
+    --accent-foreground: 85 30% 90%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 90 25% 22%;
+    --input: 90 25% 22%;
+    --ring: 46 60% 65%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply scroll-smooth;
+  }
+}
