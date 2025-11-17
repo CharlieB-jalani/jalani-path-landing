@@ -8,7 +8,7 @@ import Image from 'next/image';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 
 export default function CharliesStoryPage() {
-  const founderImage = PlaceHolderImages.find(img => img.id === 'founder-portrait');
+  const founderImage = PlaceHolderImages.find(img => img.id === 'founder-image.png');
 
   return (
     <>
