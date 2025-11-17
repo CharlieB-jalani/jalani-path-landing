@@ -27,13 +27,13 @@
     {
       "id": "founder-portrait",
       "description": "A hopeful portrait of the founder looking towards the horizon.",
-      "imageUrl": "public/founder-image.png",
+      "imageUrl": "/founder-image.png",
       "imageHint": "portrait hopeful"
     },
     {
       "id": "charlie-journey",
       "description": "A strong, thriving tree with deep roots, symbolizing growth and strength.",
-      "imageUrl": "public/mind-journey-tree",
+      "imageUrl": "/mind-journey-tree",
       "imageHint": "growth strength"
     }
   ]
