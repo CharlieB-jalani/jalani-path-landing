@@ -42,13 +42,13 @@ export default function CharliesStoryPage() {
               For most of his life, he believed he simply had “anxiety.” He did what he thought he was supposed to do — push through, work hard, keep smiling. By 22, he’d built a fragile peace for himself, but when the pandemic hit, the world stopped, and so did the comfort he’d created. Therapy and medication didn’t help, and without support, he had to stop. Still, he carried on — earning a first-class degree in mechanical engineering and landing the job he’d dreamed of for years. But success felt hollow.
             </p>
             <p>
-              He kept searching for answers — trying different forms of therapy, reading self-help books, hoping someone would tell him what was wrong. Nothing truly helped, because everything he tried focused on the surface, not the cause. He didn’t yet understand that the real issue wasn’t in his ability to cope — it was that his body and mind had been conditioned to survive in an unsafe world.
+              He kept searching for answers — trying different forms of therapy, reading self-help books, listening to podcasts, hoping someone would tell him what was wrong or the answer would appear in the sky. Nothing truly helped, because everything he tried focused on the surface, not the cause. He didn’t yet understand that the real issue wasn’t in his ability to cope — it was that his body and mind had been conditioned to survive in an unsafe world.
             </p>
             <p>
-              By the end of 2024, life was spiralling out of control. On the outside, things looked fine, but inside he was unravelling — desperately trying to fix the growing emptiness through external change: work, relationships, distractions, anything to avoid stopping. When the new year began, it caught up with him. At the start of 2025, he fell into a deep depression — drained, directionless, and unable to recognise himself. No one knew how much danger he was in; he’d become too skilled at masking pain behind composure.
+              By the end of 2024, life was spiralling out of control. On the outside, things looked fine, but inside he was unravelling — desperately trying to fix the growing emptiness through external change: work, relationships, distractions, anything to avoid stopping. When the new year began, it caught up with him. At the start of 2025, he fell into a deep depression — drained, directionless, and unable to recognise himself and completely burned out. No one knew how much danger he was in; he’d become too skilled at masking pain behind composure.
             </p>
             <p>
-              Then, one night, a quiet thought broke through the fog: You need to get away. Days later, he booked a mental-health retreat.
+              Rather fortunately, he thought to give things one final go before giving up, he managed to book a mental-health retreat for the following weekend. A journey where his exhausted former self used the might of the last bits of energy to get himself there.
             </p>
             <p>
               That weekend changed everything. For the first time, he felt seen, heard, and understood. In a one-on-one session, a mentor helped him uncover the truth he’d been circling for years — that his constant anxiety and hypervigilance weren’t random, but the result of a childhood spent never feeling safe. His body wasn’t broken; it was protecting him the only way it knew how.
@@ -60,7 +60,7 @@ export default function CharliesStoryPage() {
               The retreat marked the beginning of a four-month period of transformation — a personal experiment in rediscovering life beyond fear. He focused on what he could control: his health, his mindset, and the quiet act of showing up each day. It became a living journey of self-acceptance and renewal.
             </p>
             <p>
-              Just before his 28th birthday, he stopped and reflected on how far he’d come. For the first time, he felt safe — not because the world had changed, but because he had. That moment of clarity drew a line between who he had been and who he was becoming.
+              Just before his 28th birthday, he stopped and reflected on how far he’d come. For the first time, he felt safe and at ease — not because the world had changed, but because he had. That moment of clarity drew a line between who he had been and who he was becoming.
             </p>
             <p>
               He began his 28th year with a clean slate — a promise to live intentionally and to use what he’d learned to help others do the same. But as he reflected on his journey, one thought wouldn’t leave him: What if someone else out there feels like I once did — unsafe, misunderstood, and with nothing to guide them?
@@ -69,25 +69,25 @@ export default function CharliesStoryPage() {
               The thought of anyone facing that same emptiness without direction didn’t sit right with him — and he knew he couldn’t ignore it because he knew what it meant. That moment of empathy became his purpose.
             </p>
             <p>
-              The four-month transformation — from retreat to reflection — became the foundation for what would later be called The Mind Journey: a shared annual movement inviting others to take control of something within their power to strengthen their minds, build consistency, or help others.
+              The four-month transformation — from retreat to reflection — became the foundation for what would later be called Charlie’s Mind Journey: a shared annual movement inviting others to take control of something within their power to strengthen their minds, build consistency, or help others.
             </p>
             <p>
-              From that seed, Jalani Path was born — a movement dedicated to helping people take small, consistent steps toward self-understanding and mental progress.
+              From that seed, Jalani Path was born — a movement dedicated to helping and celebrating people that take small, consistent steps toward self-understanding and mental progress. Something that is overlooked in the modern day. As soon as someone takes the heroic journey of recovery, they are expected to slot back into their old roles and continue as if nothing happened. He thought Jalani Path would have been the exact thing he would have joined in with if it was available to him 10 years ago.
             </p>
             <p>
               As his clarity deepened, Charlie began to recognise traits of undiagnosed neurodivergence — differences that had shaped how he saw and experienced the world. For the first time, it all made sense. He understood why he had always felt “different,” and instead of fighting it, he learned to see it as part of his unique wiring — something that could be guided, not hidden.
             </p>
             <p>
-              He began to ask: Why do we treat “neurotypical” as the goal when every mind is unique? What if “normal” meant balanced, fulfilled, and alive — built from the best of our variations?
+              He began to ask: Why do we treat “neurotypical” as the goal when every mind is unique? What if “normal” meant balanced, fulfilled, and alive — built from the best of our variations? The labels we place on our selves and others are doing a lot of damage to place limits on ourselves that do not need to be there.
             </p>
             <p>
-              That question became Jalani Path’s philosophy: progress over perfection, removing limits, and celebrating growth instead of hiding it.
+              Jalani Path’s philosophy is progress over perfection, removing limits, and celebrating growth instead of hiding it.
             </p>
             <p>
               Charlie sees this purpose not just as a calling, but as a way to live. His goal is to sustain himself through service — to pour energy into helping others and direct any excess into causes that create hope and healing. Jalani Path is his way of proving that purpose can be both sustainable and selfless.
             </p>
             <p>
-              It was built to be what he wished existed when he was lost — a place where people share their stories and the steps that helped them find their way, so no one has to face the darkness alone.
+              It was built to be what he wished existed when he was lost — a place where people share their stories and the steps that helped them find their way, so no one has to face the darkness alone and grow together at our own pace.
             </p>
 
             <div className="text-center mt-12">
